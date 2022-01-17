@@ -1,0 +1,11 @@
+{
+  "name": "reto2dia6",
+  "version": "1.0.0",
+  "description": "Usamos git status para saber si estamos al día\r ### Segundo paso\r Usamos git add para marcar los archivos que queremos subir (para marcar todos tenemos que poner git add .)\r ### Tercer paso\r Una vez marcados los archivos que queremos subir usamos git commit -m \"Mensaje de la subida\" ( - m y el mensaje de la modificacion en la subida) para confirmar la subida al repositorio local\r ### Cuarto paso\r Para finalizar usamos git push para subir los cambios al repositorio remoto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
