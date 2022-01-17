@@ -1,4 +1,4 @@
-# Pasos para subir un proyecto a Git
+# Pasos para subir un proyecto a Git.
 ### Primer paso
 Usamos git status para saber si estamos al día
 ### Segundo paso
